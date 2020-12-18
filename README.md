@@ -4,7 +4,7 @@ Reference: tensorflow.org
 
 ## Context: 
 
-### Land-Use-and-Land-Cover-Classification
+### Land Use and Land Cover Classification
 
 This work adresses the use of AI in satellite image classification. Recent breakthroughs in deep learning have created novel artificial neural networks capable of learning from examples to predict the future. In the field of image classification, Convolutional neural network can be considered one of the most popular type of architecture used for analyzing visual imagery.
 
